@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Arun Chouhan
-* 👀 I’m interested in Android Development and Full Stack Development.
+* 👀 I’m interested in Data Analyst and Mobile Development.
 * 📫 I'm  currently Learning as a Data analyst.
 * 🌱 I’m learning PowerBI, Excel, Python, SQL, and AWS Cloud Architect.
 * 💞️ I’m looking to collaborate on Data Analyst Projects.
