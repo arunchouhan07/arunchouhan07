@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 
-- 🌱 I’m currently learning **Data Analyst, Prompt AI**
+- 🌱 I’m currently learning **Java Development, SpringBoot and Microservices**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arunchouhan2353@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HK3iw1X26_EBpy_MX7pvsqrGLT8VEE1d/view?usp=sharingn](https://drive.google.com/file/d/1HK3iw1X26_EBpy_MX7pvsqrGLT8VEE1d/view?usp=sharingn)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HK3iw1X26_EBpy_MX7pvsqrGLT8VEE1d/view?usp=sharingn](https://drive.google.com/file/d/1Snzv5VXuzJj61T06IGH7fOHO2RzOkr-B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
