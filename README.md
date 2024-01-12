@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for a new role of **Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://arunchouhan.tk](https://arunchouhan.xyz)
+- 👨‍💻 All of my projects are available at [https://arunchouhan.xyz](https://arunchouhan.xyz)
 
 - 📫 How to reach me **arunchouhan2353@gmail.com**
 
