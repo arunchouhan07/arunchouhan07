@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mail@arunchouhan.xyz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HK3iw1X26_EBpy_MX7pvsqrGLT8VEE1d/view?usp=sharingn](https://drive.google.com/file/d/1Snzv5VXuzJj61T06IGH7fOHO2RzOkr-B/view?usp=sharing)
+- 📄 Know about my experiences [Chech My Resume](https://drive.google.com/file/d/1VoRyb2_bZC2CwEidqD1L1xh4uzy5QdSB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
