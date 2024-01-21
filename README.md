@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/arun07chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arun07chouhan" height="30" width="40" /></a>
 <a href="https://instagram.com/its_arunchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_arunchouhan07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arunchouhan2353/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arunchouhan2353/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://wa.me/+919301382332" target="_blank" height ="30" width="40"><i class='bx bxl-whatsapp'></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
