@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arunchouhan.xyz](https://arunchouhan.xyz)
 
-- 📫 How to reach me **arunchouhan2353@gmail.com**
+- 📫 How to reach me **mail@arunchouhan.xyz**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HK3iw1X26_EBpy_MX7pvsqrGLT8VEE1d/view?usp=sharingn](https://drive.google.com/file/d/1Snzv5VXuzJj61T06IGH7fOHO2RzOkr-B/view?usp=sharing)
 
