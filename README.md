@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm ArunChouhan</h1>
 <h3 align="center">A passionate learning student from India</h3>
 
-- 🔭 I’m currently working on [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+- 🔭 I’m currently working as a [Java Developer](https://linkedin.com/in/arun07chouhan)
 
-- 🌱 I’m currently learning **Java Development, SpringBoot and Microservices**
+- 🌱 I’m currently learning **Java Development, SpringBoot, Microservices, Kafka, and Docker**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
-- 🤝 I’m looking for a new role of **Software Developer**
+- 🤝 I’m looking for a new role of **Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://arunchouhan.xyz](https://arunchouhan.xyz)
 
 - 📫 How to reach me **mail@arunchouhan.xyz**
 
-- 📄 Know about my experiences [Chech My Resume](https://drive.google.com/file/d/1VoRyb2_bZC2CwEidqD1L1xh4uzy5QdSB/view?usp=sharing)
+- 📄 Know about my experiences [Chech My Resume](https://drive.google.com/file/d/1QQKipXXiC0qzJytW0XBWNGJAUDG8mb5-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
