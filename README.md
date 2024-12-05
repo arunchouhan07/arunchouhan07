@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working as a [Java Developer](https://linkedin.com/in/arun07chouhan)
 
-- 🌱 I’m currently learning **Java Development, SpringBoot, Microservices, Kafka, and Docker**
+- 🌱 also learning **Java Development, SpringBoot, Microservices, Kafka, and Docker**
 
-- 👯 I’m looking to collaborate on **Software Projects**
+- 👯 I’m looking for more projects to collaborate on **Software Projects**
 
-- 🤝 I’m looking for a new role of **Java Developer**
+- 🤝 looking multiple opportunities for a new role of **Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://arunchouhan.xyz](https://arunchouhan.xyz)
 
 - 📫 How to reach me **mail@arunchouhan.xyz**
 
-- 📄 Know about my experiences [Chech My Resume](https://drive.google.com/file/d/1QQKipXXiC0qzJytW0XBWNGJAUDG8mb5-/view?usp=sharing)
+- 📄 Know about my experiences [Chech My Resume](https://drive.google.com/file/d/1q4OM_dq_ktuu2LcKK8-n4lY2MHMi8-Tw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
